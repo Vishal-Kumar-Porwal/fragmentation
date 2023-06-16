@@ -26,10 +26,10 @@ from chemml.chem import Molecule
 
 
 file_xyz = input('path of the xyz file:')
-#file_xyz = str('A234.xyz')
+#file_xyz = str('something.xyz')
 
 file_connection= input('path of the file with only connection information:')
-#file_connection= str('connection-A234.txt')
+#file_connection= str('connection.txt')
 
 #rotors_output= input('path of the file where output of rotors will be stored:')
 #rotors_output= str('rotors.txt')
